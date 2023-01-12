@@ -2958,6 +2958,7 @@ details-disclosure > details {
   }
 }
 body{background-color:red;}
+.announcement-bar__message{background-color:yellow;}
 .list-menu--inline{background:blue;}
 .header__heading, .header__heading-link{background-color:red;}
 
