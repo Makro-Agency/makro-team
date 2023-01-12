@@ -2958,5 +2958,5 @@ details-disclosure > details {
   }
 }
 body{background-color:red;}
-
+.header__heading, .header__heading-link{background-color:red;}
 
